@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h1 a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  background-color: #007bff;
+  padding: 2%;
+}
+
+footer {
+  background-color: #007bff;
+  padding: 2%;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: auto;
+}
+
+footer a {
+  color: black;
+}
